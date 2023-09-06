@@ -20,6 +20,7 @@
     background: var(--card-background-color);
     background-size: cover;
     text-align: center;
+    touch-action: manipulation; 
   }
   .container {
     display: flex;
